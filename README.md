@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kaique </h1>
+<h1 align="center">Hi, I'm Kaique 😃 </h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klopes18&label=Profile%20views&color=ff0000&style=flat" alt="klopes18" /> </p>

@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klopes18&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
-<div style="display: flex; justify-content: space-between;"> <br>
+<div style="display: flex; justify-content: space-between;"> <br> 
   <img align="left"height="150" alt="coding-time" src="code.gif">
 
 </div>
